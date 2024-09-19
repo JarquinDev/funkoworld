@@ -12,8 +12,8 @@ const products = [
     {
         id: 2, 
         name: 'Darth Vader', 
-        image: './img/darth-vader1.png',
-        hoverImage: './img/darth-vader2.png',
+        image: `${process.env.PUBLIC_URL}/img/darth-vader1.png`,
+        hoverImage: `${process.env.PUBLIC_URL}/img/darth-vader2.png`,
         description:'Exclusive Halloween Darth Vader ',
         category:'Sci-Fi',
         license:'Star Wars',
