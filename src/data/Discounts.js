@@ -46,7 +46,7 @@ const discounts=[
     {
         id:2,
         name:'Inarius',
-        image: `${process.env.PUBLIC_URL}/img/diablo1.png`,
+        image: `${process.env.PUBLIC_URL}/img/Diablo1.png`,
         hoverImage: `${process.env.PUBLIC_URL}/img/diablo2.png`,
         description: 'The angel of inarius, come to help you destroy Diablo, Inarius Funko Pop, 4" regular Funko!',
         category: 'Video Games',

@@ -58,6 +58,7 @@ function App() {
           <Route path='all-products' element={<AllProducts addToCart={addToCart}/>}/>
           <Route path='/productlist' element={<ProductList addToCart={addToCart}/>}/>
           <Route path="/categorypage/:category" element={<CategoryPage addToCart={addToCart}/>} />
+          <Route path="/categorypage/Sci-Fi" element={<CategoryPage addToCart={addToCart}/>} />
           <Route path="/product/:productId" element={<ProductDetails addToCart={addToCart} />} />
           <Route path="/cart" element={<Cart removeFromCart={removeFromCart} addToCart={addToCart}/>} />
           <Route path="/discounts" element={<Discounts removeFromCart={removeFromCart} addToCart={addToCart}/>} />

@@ -26,7 +26,9 @@ export default function SectionMovies({ onAddToCart }) {
                     ))}
                 </div>
                     <button className="shop-now-button bg-black hover:bg-gray-600 mt-4 text-white font-semibold py-2 px-4 rounded-lg">
-                        Show More
+                    <Link to="/categorypage/Sci-Fi">
+                        show More
+                      </Link>
                     </button>
             </div>
         </section>
