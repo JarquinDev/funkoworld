@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/%3Cfunkoworld/static/css/main.23690201.css",
-    "main.js": "/%3Cfunkoworld/static/js/main.8eaf2cb2.js",
-    "static/js/453.36543c02.chunk.js": "/%3Cfunkoworld/static/js/453.36543c02.chunk.js",
-    "index.html": "/%3Cfunkoworld/index.html",
-    "main.23690201.css.map": "/%3Cfunkoworld/static/css/main.23690201.css.map",
-    "main.8eaf2cb2.js.map": "/%3Cfunkoworld/static/js/main.8eaf2cb2.js.map",
-    "453.36543c02.chunk.js.map": "/%3Cfunkoworld/static/js/453.36543c02.chunk.js.map"
+    "main.css": "/funkoworld/static/css/main.23690201.css",
+    "main.js": "/funkoworld/static/js/main.cf7a9881.js",
+    "static/js/453.36543c02.chunk.js": "/funkoworld/static/js/453.36543c02.chunk.js",
+    "index.html": "/funkoworld/index.html",
+    "main.23690201.css.map": "/funkoworld/static/css/main.23690201.css.map",
+    "main.cf7a9881.js.map": "/funkoworld/static/js/main.cf7a9881.js.map",
+    "453.36543c02.chunk.js.map": "/funkoworld/static/js/453.36543c02.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.23690201.css",
-    "static/js/main.8eaf2cb2.js"
+    "static/js/main.cf7a9881.js"
   ]
 }
