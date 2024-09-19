@@ -3,7 +3,7 @@ const products = [
       id: 1,
       name: 'Darth Maul',
       image: './img/darth-maul1.png',
-      hoverImage: './img/darth-Maul2.png',
+      hoverImage: './img/darth-maul2.png',
       description: 'REGULAR 4" DARTH MAUL SPECIAL EDITION, BUBBLE HEAD ECLUSIVE OF the 25th Anniversary of Star Wars: The Phantom Menace™ celebration!',
       category: 'Sci-Fi',
       license: 'Star Wars',
