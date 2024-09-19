@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/funkoworld/static/css/main.23690201.css",
-    "main.js": "/funkoworld/static/js/main.edc65484.js",
+    "main.js": "/funkoworld/static/js/main.2ae0677c.js",
     "static/js/453.36543c02.chunk.js": "/funkoworld/static/js/453.36543c02.chunk.js",
     "index.html": "/funkoworld/index.html",
     "main.23690201.css.map": "/funkoworld/static/css/main.23690201.css.map",
-    "main.edc65484.js.map": "/funkoworld/static/js/main.edc65484.js.map",
+    "main.2ae0677c.js.map": "/funkoworld/static/js/main.2ae0677c.js.map",
     "453.36543c02.chunk.js.map": "/funkoworld/static/js/453.36543c02.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.23690201.css",
-    "static/js/main.edc65484.js"
+    "static/js/main.2ae0677c.js"
   ]
 }
